@@ -138,26 +138,3 @@ O sistema deverá adaptar sua interface para diferentes tamanhos de tela.
 
 ---
 
-## 6. Modelo de Dados
-
-O modelo de dados será composto inicialmente pelas seguintes entidades:
-
-### Usuários
-
-| Campo  | Tipo    | Descrição                |
-| ------ | ------- | ------------------------ |
-| id     | INT     | Identificador do usuário |
-| nome   | VARCHAR | Nome completo            |
-| email  | VARCHAR | E-mail do usuário        |
-| senha  | VARCHAR | Senha criptografada      |
-| perfil | VARCHAR | Tipo de acesso           |
-
-### Informações Gerenciadas
-
-| Campo        | Tipo    | Descrição           |
-| ------------ | ------- | ------------------- |
-| id           | INT     | Identificador       |
-| titulo       | VARCHAR | Nome da informação  |
-| descricao    | TEXT    | Descrição detalhada |
-| data_criacao | DATE    | Data de cadastro    |
-| usuario_id   | INT     | Usuário responsável |
