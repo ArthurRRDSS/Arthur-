@@ -3,8 +3,11 @@
 Autores:
 
 Arthur Rodrigues de Lima Costa
+
 Lucas Dyonn Porto Felix 
+
 Thayrone Silva Andrade
+
 
 
 # Documento de Requisitos de Software (DRS)
