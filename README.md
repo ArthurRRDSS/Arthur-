@@ -16,7 +16,7 @@ Thayrone Silva Andrade
 
 ### 1.1 Visão Geral
 
-O sistema de gestão tem como finalidade auxiliar empresas, instituições ou pequenos negócios no controle e organização de informações, processos e atividades internas. A plataforma permitirá centralizar dados importantes, automatizar tarefas e facilitar o acesso às informações de maneira simples, rápida e segura.
+O sistema de gestão tem como finalidade auxiliar  pequenos negócios no controle e organização de informações, processos e atividades internas. A plataforma permitirá centralizar dados importantes, automatizar tarefas e facilitar o acesso às informações de maneira simples, rápida e segura.
 
 O sistema será desenvolvido com foco em usabilidade, acessibilidade e praticidade, podendo ser utilizado em diferentes dispositivos, como computadores, tablets e smartphones.
 
@@ -26,18 +26,15 @@ O sistema será desenvolvido com foco em usabilidade, acessibilidade e praticida
 * Automatizar processos manuais.
 * Melhorar a produtividade dos usuários.
 * Garantir maior segurança e controle dos dados.
-* Disponibilizar acesso rápido e intuitivo às funcionalidades do sistema.
 * Reduzir erros operacionais e retrabalho.
 
 ### 1.3 Público Alvo
 
 O sistema é destinado para:
 
-* Pequenas e médias empresas;
-* Instituições educacionais;
-* Comércios;
-* Prestadores de serviços;
-* Administradores e funcionários que necessitam gerenciar informações e processos internos.
+* Pequenos comerciantes;
+* Pequenos comercios;
+* Empreendedores individuais.
 
 ---
 
@@ -90,35 +87,29 @@ O sistema deverá possuir diferentes níveis de acesso conforme o perfil do usu�
 
 O sistema deverá gerar relatórios para consulta e acompanhamento das informações cadastradas.
 
-### RF05 - Recuperação de Senha
-
-O sistema deverá permitir a recuperação de senha através do e-mail cadastrado.
 
 ---
 
 ## 4. Requisitos Não Funcionais
 
-### RNF00 - Desempenho
 
-O sistema deverá responder às solicitações do usuário em no máximo 3 segundos.
-
-### RNF01 - Segurança
+### RNF00 - Segurança
 
 As informações dos usuários deverão ser protegidas por criptografia e autenticação segura.
 
-### RNF02 - Usabilidade
+### RNF01 - Usabilidade
 
 O sistema deverá possuir interface simples, intuitiva e de fácil utilização.
 
-### RNF03 - Compatibilidade
+### RNF02 - Compatibilidade
 
 O sistema deverá funcionar nos principais navegadores modernos.
 
-### RNF04 - Disponibilidade
+### RNF03 - Disponibilidade
 
 O sistema deverá possuir disponibilidade mínima de 95%.
 
-### RNF05 - Responsividade
+### RNF04 - Responsividade
 
 O sistema deverá adaptar sua interface para diferentes tamanhos de tela.
 
@@ -130,23 +121,19 @@ O sistema deverá adaptar sua interface para diferentes tamanhos de tela.
 
 #### 5.1.1 Stack Backend
 
-* Node.js
-* Express.js
-* API REST
-* JWT para autenticação
+* Django;
+* Spring Boot.
+
 
 #### 5.1.2 Stack Frontend
 
 * HTML5
 * CSS3
 * JavaScript
-* React.js
 
 #### 5.1.3 Banco de Dados
 
 * MySQL
-  
-* PostgreSQL
 
 ---
 
