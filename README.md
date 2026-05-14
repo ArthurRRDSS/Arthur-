@@ -60,6 +60,7 @@ O sistema não contemplará:
 * Integração com hardware externo;
 * Aplicativos nativos para dispositivos móveis.
 
+
 ---
 
 ## 3. Requisitos Funcionais
@@ -130,7 +131,7 @@ O sistema deverá adaptar sua interface para diferentes tamanhos de tela.
 
 #### 5.1.3 Banco de Dados
 
-
+* SQlite
 
 ---
 
