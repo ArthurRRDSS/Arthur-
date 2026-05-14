@@ -133,7 +133,7 @@ O sistema deverá adaptar sua interface para diferentes tamanhos de tela.
 
 #### 5.1.3 Banco de Dados
 
-* MySQL
+
 
 ---
 
