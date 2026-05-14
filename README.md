@@ -48,7 +48,6 @@ O sistema deverá permitir:
 * Login e autenticação;
 * Gerenciamento de informações;
 * Consulta e atualização de dados;
-* Controle de acesso por perfil;
 * Emissão de relatórios;
 * Interface responsiva e acessível;
 * Armazenamento seguro de dados.
@@ -58,8 +57,6 @@ O sistema deverá permitir:
 O sistema não contemplará:
 
 * Integração com sistemas bancários;
-* Funcionalidades offline;
-* Inteligência artificial avançada;
 * Integração com hardware externo;
 * Aplicativos nativos para dispositivos móveis.
 
